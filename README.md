@@ -86,23 +86,23 @@ Bean & Bloom provides a modern business website that allows customers to:
 
 ### Home Page
 
-(Add Screenshot Here)
+![Home Page](public/HomePage.png)
 
 ### Menu Section
 
-(Add Screenshot Here)
+![Menu Section](public/MenuSection.png)
 
 ### Gallery
 
-(Add Screenshot Here)
+![Gallery](public/Gallery.png)
 
 ### Reservation Page
 
-(Add Screenshot Here)
+![Reservation Page](public/ReservationPage.png)
 
 ### Contact Section
 
-(Add Screenshot Here)
+![Contact Section](public/ContactSection.png)
 
 ---
 
