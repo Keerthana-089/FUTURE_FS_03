@@ -1,9 +1,7 @@
 # ☕ Bean & Bloom
 
 
-## 🌐 Live Demo
-
-🔗 https://bloom-your-table.lovable.app
+🌐 Live Demo : https://bloom-your-table.lovable.app
 
 ---
 
