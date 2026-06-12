@@ -1,11 +1,5 @@
 # ☕ Bean & Bloom
 
-### A Modern Cafe Website for Local Business Growth
-
-![React](https://img.shields.io/badge/React-Frontend-blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-Language-blue)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Styling-38BDF8)
-![Future Interns](https://img.shields.io/badge/Future%20Interns-Task%203-orange)
 
 ## 🌐 Live Demo
 
